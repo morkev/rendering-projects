@@ -14,6 +14,8 @@ This a just a little repository where I share some of my 3D rendering projects. 
 
 I would write huge descriptions for each of these projects – there is, however, no such need. They certainly aren't of utter complexity, but rather meant to teach some of the basic (and not so basic) principles to begginers.
 
+<br>
+
 <img width="1116" alt="std_bunnies" src="https://user-images.githubusercontent.com/83437383/149600775-a79c825b-def3-45b4-811b-92e13a6a0da9.png">
 
 > Stanford bunnies rendered with a trihexagonal tilling algorithm.
