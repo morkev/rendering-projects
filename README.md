@@ -10,7 +10,7 @@
 
 #
 
-This a just a little repository where I share some of my 3D rendering projects. Please, feel free to play with caustics, change the parameters in the python scripts, add nodes and other stuff. Destroy the project and come back (we, unlike others, have the ability to create back-ups and travel in time).
+This is just a little repository where I share some of my 3D rendering projects. Please, feel free to play with caustics, change the parameters in the python scripts, add nodes and other stuff. Destroy the project and come back (we, unlike others, have the ability to create back-ups and travel in time).
 
 I would write huge descriptions for each of these projects – there is, however, no such need. They certainly aren't of utter complexity, but rather meant to teach some of the basic (and not so basic) principles to begginers.
 
