@@ -1,10 +1,6 @@
 # Renders created in Houdini & Blender
 
-![](https://img.shields.io/snyk/vulnerabilities/npm/@babel/core?logo=python&logoColor=green)
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/morkev/houdini-blender-renders">
-![](https://img.shields.io/badge/fun-true-blueviolet)
-<img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/morkev/houdini-blender-renders">
-![](https://img.shields.io/appveyor/build/gruntjs/grunt)
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/morkev/houdini-blender-renders"> ![](https://img.shields.io/badge/fun-true-blueviolet) <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/morkev/houdini-blender-renders"> ![](https://img.shields.io/appveyor/build/gruntjs/grunt)
 
 `git clone https://github.com/morkev/houdini-blender-renders.git`
 
